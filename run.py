@@ -1,3 +1,5 @@
+# Driver code
+
 from app import app, db, views
 
 if __name__ == '__main__':
